@@ -229,6 +229,7 @@ namespace FirsovaAlekseevalab10
             //arena.AddUnit(new Mage("Гендальф"));
             //arena.AddUnit(new Archer("Леголас"));
             //arena.StartBattle();
+        }
 
 
 
